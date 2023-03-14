@@ -1,0 +1,30 @@
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.exe
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.deps.json
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.runtimeconfig.json
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.dll
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.pdb
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.csproj.AssemblyReference.cache
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.AssemblyInfoInputs.cache
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.AssemblyInfo.cs
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.dll
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\refint\CalculatorConsoleApp.dll
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.pdb
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.genruntimeconfig.cache
+E:\alpro\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\ref\CalculatorConsoleApp.dll
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.exe
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.deps.json
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.runtimeconfig.json
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.dll
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.pdb
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.csproj.AssemblyReference.cache
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.AssemblyInfoInputs.cache
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.AssemblyInfo.cs
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.dll
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\refint\CalculatorConsoleApp.dll
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.pdb
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.genruntimeconfig.cache
+E:\SEMESTER GENAP TA. 2022-2023\PEMOGRAMAN\TUGAS\MingguKe-I\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\ref\CalculatorConsoleApp.dll
